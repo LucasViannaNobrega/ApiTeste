@@ -1,0 +1,17 @@
+C:\Users\lucas\ApiLucas\bin\Debug\netcoreapp2.1\ApiLucas.deps.json
+C:\Users\lucas\ApiLucas\bin\Debug\netcoreapp2.1\ApiLucas.runtimeconfig.json
+C:\Users\lucas\ApiLucas\bin\Debug\netcoreapp2.1\ApiLucas.runtimeconfig.dev.json
+C:\Users\lucas\ApiLucas\bin\Debug\netcoreapp2.1\ApiLucas.dll
+C:\Users\lucas\ApiLucas\bin\Debug\netcoreapp2.1\ApiLucas.pdb
+C:\Users\lucas\ApiLucas\obj\Debug\netcoreapp2.1\ApiLucas.csprojAssemblyReference.cache
+C:\Users\lucas\ApiLucas\obj\Debug\netcoreapp2.1\ApiLucas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\ApiLucas\obj\Debug\netcoreapp2.1\ApiLucas.RazorAssemblyInfo.cache
+C:\Users\lucas\ApiLucas\obj\Debug\netcoreapp2.1\ApiLucas.RazorAssemblyInfo.cs
+C:\Users\lucas\ApiLucas\obj\Debug\netcoreapp2.1\ApiLucas.AssemblyInfoInputs.cache
+C:\Users\lucas\ApiLucas\obj\Debug\netcoreapp2.1\ApiLucas.AssemblyInfo.cs
+C:\Users\lucas\ApiLucas\obj\Debug\netcoreapp2.1\ApiLucas.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\ApiLucas\obj\Debug\netcoreapp2.1\ApiLucas.dll
+C:\Users\lucas\ApiLucas\obj\Debug\netcoreapp2.1\ApiLucas.pdb
+C:\Users\lucas\ApiLucas\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\lucas\ApiLucas\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\lucas\ApiLucas\obj\Debug\netcoreapp2.1\ApiLucas.genruntimeconfig.cache
